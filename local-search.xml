@@ -8,9 +8,23 @@
     <link href="/caijiaxian/2025/01/17/Hello-World-0/"/>
     <url>/caijiaxian/2025/01/17/Hello-World-0/</url>
     
-    <content type="html"><![CDATA[<p>试一下，Hexo+GitHub</p><p>第一次个人网站搭建</p>]]></content>
+    <content type="html"><![CDATA[<p>试一下，Hexo+GitHub</p><p>第一次个人网站搭建</p><p>指导网站如下：</p><p><a href="https://blog.csdn.net/clearloe/article/details/139879493">Hexo 博客搭建并部署到 GitHub Pages(2024最新详细版)_github pages上部署hexo-CSDN博客</a></p><p><a href="https://zhuanlan.zhihu.com/p/60578464">使用 Hexo+GitHub 搭建个人免费博客教程（小白向） - 知乎</a></p>]]></content>
     
     
+    <categories>
+      
+      <category>搭建个人主页</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+      <tag>Fluid</tag>
+      
+    </tags>
     
   </entry>
   
